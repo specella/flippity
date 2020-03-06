@@ -1,0 +1,24 @@
+body {
+	background-image: linear-gradient(to bottom, #9c605c 70%, #793e9e);
+	padding: 1%;
+}
+
+img {
+	max-width: 100%;
+}
+
+imghover {
+	transform: scaleX(-1);
+}
+
+a {
+	text-decoration: none;
+}
+
+.mainImage {
+	border-radius: 5%;
+}
+
+.title {
+	text-shadow: -1px -1px #000;
+}

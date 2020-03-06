@@ -1,0 +1,13 @@
+.mainHead .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.mainContent {
+	width: 70%;
+	padding-left: 15%;
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: space-between;
+}
